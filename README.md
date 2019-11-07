@@ -76,12 +76,16 @@ https://git-scm.com/downloads
 
 # REVISÃO
 
-- 'git init' inicia a linha do tempo
-- 'git add' adiciona ou atualiza alterações para a irem para a linha do tempo
-- 'git commit' adiciona um ponto na linha do tempo
-- 'git log' visualiza os pontos na linha do tempo /commit
-- 'git status' informa o estado das alterações do projeto
-- 'git show' apresenta um determinado ponto na linha do tempo
+- `git init` // nicia a linha do tempo
+- `git add` // adiciona ou atualiza alterações para a irem para a linha do tempo
+- `git commit` // adiciona um ponto na linha do tempo
+- `git log` // visualiza os pontos na linha do tempo /commit
+- `git status` // informa o estado das alterações do projeto
+- `git show` // apresenta um determinado ponto na linha do tempo
+- `git branch` // gerencia novas linhas do tempo
+- `git checkout` // manipula as linhas do tempo
+- `git merge` // une as linhas do tempo
+- `git push` // envia as alterações locais para o repositório remoto
 
 [] ENVIAR O PROJETO PARA A NUVEM
 
