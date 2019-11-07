@@ -74,7 +74,7 @@ https://git-scm.com/downloads
 
 # git branch -D nome_branch
 
-##### REVISÃO
+# REVISÃO
 
 - 'git init' inicia a linha do tempo
 - 'git add' adiciona ou atualiza alterações para a irem para a linha do tempo
