@@ -14,7 +14,7 @@ https://git-scm.com/downloads
 
 - inicia um repositório, onde o seu projeto ficará guardado
 
-# git add nome_do_arquivo / git add
+# git add nome_do_arquivo / git add .
 
 - adiciona o(s) arquivo(s) para ser observado pelo Git
 
@@ -66,7 +66,7 @@ https://git-scm.com/downloads
   - voltar ao branch master
   - usar o commando 'dir' para listar os arquivos do branch master
 
-[] ADICIONAR NOVAS FUNCIONALIDADES AO PROJETO EM PRODUÇÃO
+[x] ADICIONAR NOVAS FUNCIONALIDADES AO PROJETO EM PRODUÇÃO
 
 # git merge nome_branch
 
@@ -84,3 +84,26 @@ https://git-scm.com/downloads
 - 'git show' apresenta um determinado ponto na linha do tempo
 
 [] ENVIAR O PROJETO PARA A NUVEM
+
+# GITHUB :)
+
+- Criar conta no GitHub
+- Criar novo repositório
+- Copiar os comados sugeridos pelo GitHub
+
+  # git remote -v
+
+  - visualiza os repositórios
+
+  # git push
+
+  - 'empurra' o repositório local para a nuvem
+
+  * use o comando fornecido pelo GitHub para criar a branch master no repositório online
+  * nas demais vezes, apenas git push
+
+## DICA
+
+# git config credential.helper store
+
+- grava os dados de login no config
